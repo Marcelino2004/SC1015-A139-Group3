@@ -51,3 +51,5 @@ https://www.ibm.com/in-en/topics/random-forest#:~:text=Random%20forest%20is%20a%
 https://www.investopedia.com/terms/c/cryptocurrency.asp
 
 https://www.forbes.com/sites/qai/2022/09/20/what-really-happened-to-luna-crypto/?sh=f58f3a64ff12
+
+https://www.youtube.com/watch?v=PuZY9q-aKLw&ab_channel=NeuralNine

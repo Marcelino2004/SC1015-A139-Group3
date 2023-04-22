@@ -20,6 +20,7 @@ https://www.kaggle.com/datasets/maharshipandya/-cryptocurrency-historical-prices
 ## Models Used
 - Linear Regression Model
 - Random Forest Classifier
+- Decision Tree Classifier
 - Long Short-Term Memory Networks (LSTM) Model
 
 ## Conclusion
@@ -43,8 +44,7 @@ https://medium.com/hackerdawn/bitcoin-price-prediction-using-linear-regression-9
 
 https://intellipaat.com/blog/what-is-lstm/#:~:text='%20LSTM%20stands%20for%20long%20short,especially%20in%20sequence%20prediction%20problems.
 
-
-https://www.mastersindatascience.org/learning/machine-learning-algorithms/linear-regression/#:~:text=What%20Is%20Linear%20Regression%3F,results%20based%20on%20past%20relationships.
+https://www.mastersindatascience.org/learning/machine-learning-algorithms/linear-regression/#:~:text=What%20Is%20Linear%20Regression%3F,results%20based%20on%20past%20relationships
 
 https://www.ibm.com/in-en/topics/random-forest#:~:text=Random%20forest%20is%20a%20commonly,both%20classification%20and%20regression%20problems.
 
